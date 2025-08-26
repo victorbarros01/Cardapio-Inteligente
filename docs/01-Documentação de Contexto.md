@@ -34,7 +34,8 @@ Temos como principal público-alvo aquelas pessoas que possuem restrições alim
 
 Visamos para essas pessoas conseguirem buscar restaurantes com boas opções, sem precisar sair de sua casa antes de tomar a decisão. 
 
-Também como público-alvo, temos aqueles restaurantes que possui o nicho mais voltado para essas pessoas e quer alcançar a visibilidade desse público, para também auxiliar as pessoas com essas restrições e fãs de Service Delivery, futuramente pensamos em adaptar nossa solução para abranger esse público. 
+Também como público-alvo, temos aqueles restaurantes que possui o nicho mais voltado para essas pessoas e quer alcançar a visibilidade desse público, para também auxiliar as pessoas com essas restrições e fãs de Service Delivery, futuramente pensamos em adaptar nossa solução para abranger esse público.
+
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
