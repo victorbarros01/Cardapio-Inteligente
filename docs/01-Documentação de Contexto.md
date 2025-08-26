@@ -1,42 +1,40 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente, dentro da realidade de restaurantes, já temos inúmeras opções e receitas que acolhem diferentes tipos de gostos e limitações. 
+
+Normalmente ao ir a um destes restaurantes pela primeira vez sempre conferimos o cardápio para analisar as opções disponíveis e o que mais agrada ao paladar, isso é um cenário comum, agora colocando em perspectiva uma pessoa com uma restrição alimentar, ao chegar a um novo restaurante, se depara com um cardápio possuindo apenas uma ou em alguns cenários nenhuma opção que esteja dentro de suas restrições. Essa ocorrência em restaurante que possam ser próximos de casa ou já de costume, há outras opções próximas ou já está ambientado com o cardápio, porém, o local sendo distante as vezes sem muitas opções de outros restaurantes nas redondezas, acaba sendo uma experiência desanimadora.  
+
+Pensando nisso estamos planejando desenvolver um software que busca trazer mais facilidade à essas pessoas, ajudando-as a buscarem opções de restaurantes que estejam dentro de suas restrições alimentares, além de abrir a possibilidade de permitir que esses restaurantes divulguem seus cardápios dentro de uma única plataforma. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é desenvolver um aplicativo mobile que funcione como um cardápio inteligente, capaz de auxiliar usuários com restrições alimentares e objetivos nutricionais específicos na escolha de restaurantes e pratos adequados às suas necessidades. A proposta visa solucionar a dificuldade enfrentada por pessoas com restrições alimentares ao buscar opções seguras e satisfatórias aos seu objetivo. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Para alcançar esse propósito, foram definidos os seguintes objetivos específicos: 
 
+- **Mapear e integrar cardápios de restaurantes parceiros** à plataforma, destacando informações nutricionais e restrições alimentares de cada prato, de forma clara e acessível ao usuário. 
+
+- **Desenvolver um sistema de recomendação personalizado**, que utilize os dados inseridos pelo usuário (como tipo de restrição alimentar e objetivo nutricional) para sugerir pratos e restaurantes compatíveis com seu perfil. 
+
+- **Promover a inclusão digital de estabelecimentos gastronômicos**, permitindo que restaurantes divulguem seus cardápios e alcancem um público mais amplo, especialmente aqueles com necessidades alimentares específicas.
+  
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O desenvolvimento deste aplicativo se justifica pela necessidade de tornar a experiência de pessoas com restrições alimentares mais inclusiva e prática. Embora atualmente já existam aplicativos voltados para delivery e consulta de cardápios, muitos deles não oferecem informações detalhadas sobre restrições alimentares, valores nutricionais ou recomendações personalizadas. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Nesse contexto, a proposta se diferencia por centralizar em uma única plataforma tanto as informações específicas de pratos e cardápios, quanto a possibilidade de o usuário configurar seu perfil alimentar e receber recomendações compatíveis com suas necessidades. Isso agrega valor ao consumidor, que terá mais autonomia e segurança na hora de escolher um restaurante, e ao restaurante, que ganha visibilidade junto a um público segmentado que busca exatamente esse tipo de informação. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Dessa forma, nosso projeto promove a inclusão digital e aprimora a experiência de consumo, ao oferecer uma solução que conecta, de maneira eficiente, estabelecimentos gastronômicos a pessoas com diferentes restrições e/ou objetivos alimentares. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Temos como principal público-alvo aquelas pessoas que possuem restrições alimentares ou escolhem não comer determinado tipo de comida por uma causa. 
 
+Visamos para essas pessoas conseguirem buscar restaurantes com boas opções, sem precisar sair de sua casa antes de tomar a decisão. 
+
+Também como público-alvo, temos aqueles restaurantes que possui o nicho mais voltado para essas pessoas e quer alcançar a visibilidade desse público, para também auxiliar as pessoas com essas restrições e fãs de Service Delivery, futuramente pensamos em adaptar nossa solução para abranger esse público. 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
