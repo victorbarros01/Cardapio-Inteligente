@@ -7,6 +7,13 @@ Normalmente ao ir a um destes restaurantes pela primeira vez sempre conferimos o
 Pensando nisso estamos planejando desenvolver um software que busca trazer mais facilidade à essas pessoas, ajudando-as a buscarem opções de restaurantes que estejam dentro de suas restrições alimentares, além de abrir a possibilidade de permitir que esses restaurantes divulguem seus cardápios dentro de uma única plataforma. 
 
 ## Problema
+Pessoas que possuem restrições alimentares, sejam elas relacionadas a alergias, intolerâncias, escolhas éticas ou objetivos nutricionais específicos, frequentemente enfrentam barreiras ao buscar opções de alimentação em restaurantes. Em muitos estabelecimentos, os cardápios não apresentam informações claras sobre os ingredientes utilizados, valores nutricionais ou a presença de componentes que possam ser prejudiciais à saúde de determinados grupos de clientes.
+
+Essa ausência de informações detalhadas gera insegurança, limita a autonomia na escolha dos pratos e pode resultar em experiências negativas, como a frustração de não encontrar opções adequadas ou, em casos mais graves, reações adversas por consumo indevido de alimentos restritivos.
+
+Além disso, os restaurantes que oferecem opções específicas para esse público raramente conseguem comunicar de forma eficiente a disponibilidade dessas alternativas, dificultando a conexão com potenciais clientes que valorizam ou necessitam dessas informações.
+
+O problema, portanto, está na falta de visibilidade e acessibilidade a informações confiáveis sobre cardápios e restrições alimentares, tanto para consumidores quanto para estabelecimentos. Esse contexto ocorre no setor de alimentação e gastronomia, em restaurantes de pequeno, médio e grande porte, que hoje utilizam majoritariamente cardápios físicos ou versões digitais simplificadas, os quais não são preparados para contemplar necessidades alimentares específicas.
 
 ## Objetivos
 
