@@ -11,9 +11,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |Nome da Persona|Informações Básicas|Problemas da Persona|Expectivas/Necessidades|
 |-|-|-|-|
 |João Felipe|23 anos,Vegetariano, trabalha com Vendas e está cursando Enfermagem.|Mudou-se recentemente pra Vitória - ES, porém, não conhece a gastronomia local nem os restaurantes que possuem opções Veganas ou Vegetarianas no cardápio, devido sua rotina pesada em envolvendo trabalho e estudo, ele se sente inseguro para sair e conhecer a culinária local em seu pouco tempo livre, pois teme não encontrar opções que vão agradá-lo e fica frustrado, pois, devido ao inconveniente irá tentar planejar-se novamente talvez encontrar um lugar ideal na próxima semana.|Busca um app pra ajudá-lo a obter essas informações de forma mais prática e rápida, permitindo que consiga ter noção de restaurantes com cardápios no seu “gosto”, sem precisar reservar um dia só pra isso.|
-
-
-|-|-|-|-|
 |Bruna Aparecida|26 anos,celíaca, Gerente de Comunidades.|Bruna descobriu há 3 anos que é celíaca e, desde então, precisa manter uma dieta 100% livre de glúten. Bruna gosta de sair com amigos e familiares para restaurantes. Porém, muitas vezes enfrenta insegurança por não encontrar opções seguras nos cardápios, ou por não ter clareza nas informações apresentadas nos cardápios.|
 
 <!--Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
